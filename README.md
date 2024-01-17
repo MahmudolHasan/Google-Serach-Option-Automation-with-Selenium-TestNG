@@ -43,8 +43,11 @@ git clone https://github.com/your-username/google-suggestion-extractor.git
 ### Allure Report
 
 ### Excel 
-The extracted suggestions will be stored in the specified cells within the original Excel file.
-![Before](Resources/Screenshot (67).png)
+The extracted suggestions will be stored in the specified cells within the original Excel file.</br>
+Before Extracting :- </br>
+![Before Extraction](/Resources/before.png)
+After Extracting :- </br>
+![AfterExtraction](/Resources/after.png)
 
 ## Additional Notes
 
