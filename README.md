@@ -10,6 +10,7 @@ This Java project extracts the longest and shortest search suggestions from Goog
 2. Inputs each keyword into the Google search box.
 3. Extracts the longest and shortest suggestions from the Google search results.
 4. Stores the extracted suggestions in corresponding cells within the original Excel file.
+
 ## Prerequisites
 These tools need to be installed on the local machine.
 
@@ -26,7 +27,7 @@ git clone https://github.com/your-username/google-suggestion-extractor.git
 ## Usage
 
 
-## ToRun the project
+## To Run the project
 
   1. Open the java editor
   2. Open the cloned folder of this repository from the editor
@@ -43,6 +44,7 @@ git clone https://github.com/your-username/google-suggestion-extractor.git
 
 ### Excel 
 The extracted suggestions will be stored in the specified cells within the original Excel file.
+![Before](Resources/Screenshot (67).png)
 
 ## Additional Notes
 
