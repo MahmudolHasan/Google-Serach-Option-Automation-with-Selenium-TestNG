@@ -22,7 +22,7 @@ These tools need to be installed on the local machine.
 
 Clone this repository:
 ```Bash
-git clone https://github.com/your-username/google-suggestion-extractor.git
+git clone https://github.com/MahmudolHasan/Google-Serach-Option-Extractor-With-Selenium-And-TestNG.git
 ```
 ## Usage
 
@@ -37,10 +37,14 @@ git clone https://github.com/your-username/google-suggestion-extractor.git
          ``` Bash
          mvn clean install -U
          ```
-  4. Now run the file as TestNG suite 
+  4.Open the java file from  `/src/test/main/QuPs.java`  </br>
+  5. Now run the file :  </br>
+    * Can run the script as testNG suite or </br>
+    * run the file from using run option available beside ` _test_`  function.(Foir Eclipse [TestNG for Eclipse](https://marketplace.eclipse.org/content/testng-eclipse) should be installed in Eclipse) [see this](https://www.guru99.com/install-testng-in-eclipse.html) for more information.
 
 ## Output
 ### Allure Report
+Allure Report Can be found under `/allure-report/index.html`.
 
 ### Excel 
 The extracted suggestions will be stored in the specified cells within the original Excel file.</br>
@@ -49,14 +53,7 @@ Before Extracting :- </br>
 After Extracting :- </br>
 ![AfterExtraction](/Resources/after.png)
 
-## Additional Notes
 
-Consider rate limiting or using a proxy to avoid excessive requests to Google.
-Adjust the code to handle potential errors or exceptions.
-Explore additional features like filtering suggestions based on criteria.
-## Contributing
-
-Pull requests are welcome!
 
 ## License
 
