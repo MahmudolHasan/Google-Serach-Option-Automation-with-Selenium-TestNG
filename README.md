@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This Java project extracts the longest and shortest search suggestions from Google for a given set of keywords, and stores them in a specified Excel file.
+This Java project extracts the longest and shortest search suggestions from Google for a given set of keywords and stores them in a specified Excel file.
 
 ## Key Features
 
