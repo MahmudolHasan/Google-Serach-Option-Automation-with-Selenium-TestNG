@@ -29,7 +29,7 @@ git clone https://github.com/MahmudolHasan/Google-Serach-Option-Extractor-With-S
 
 ## To Run the project
 
-  1. Open the java editor
+  1. Open the Java IDE
   2. Open the cloned folder of this repository from the editor
   3. Update the Maven project from the Editor
        * Use GUI to update Maven Project
